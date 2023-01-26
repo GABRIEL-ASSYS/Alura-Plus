@@ -2,6 +2,8 @@
 
   A Alura Plus é um projeto criado durante um curso sobre HTML e CSS na plataforma Alura, com o objetivo de auxiliar no aprendizado de desenvolvimento WEB utilizando as linguagens HTML5 e CSS3, sendo uma página WEB de uma plataforma de streaming de vídeos da plataforma Alura, contendo: vídeos sobre diversos assuntos, informações sobre assinatura e informações sobre o combo Alura+ e AluraLíngua.
 
+![print da página](https://github.com/GABRIEL-ASSYS/Alura-Plus/blob/main/assets/img/print.png)
+
 ## 🚀 Começando
 
 Essas intruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
